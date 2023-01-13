@@ -1,0 +1,13 @@
+.btn{
+   background-color: blueviolet; 
+   color: white;
+   border-radius: 5px;
+   border: 0 ;
+   min-width: 1rem;
+   height: 2.5rem ;
+   font-weight: bold;
+   margin-top: 1rem;
+   margin-left: 3rem;
+   padding: 0.5rem 
+   
+}

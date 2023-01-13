@@ -1,0 +1,17 @@
+.newUserForm{
+    
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 1rem;
+    width: 95%;
+    border-radius: 10px;
+    }
+
+    .btn-position{
+        display: flex;
+        align-self: flex-end;
+        margin-right: 4rem;
+        
+    }
+    

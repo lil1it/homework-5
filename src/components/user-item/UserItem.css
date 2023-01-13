@@ -1,0 +1,12 @@
+.userItem{
+   
+    border: 1px solid black;
+    margin-bottom: 1rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold ;
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 1.5rem;
+    text-align: start;
+   padding-left: 1rem
+}
